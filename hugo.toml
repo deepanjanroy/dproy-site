@@ -1,0 +1,40 @@
+baseURL = 'https://dproy.ca/'
+languageCode = 'en-us'
+title = 'Deep Roy'
+theme = 'terminal'
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Deep Roy"
+
+    [languages.en.params]
+      subtitle = "A simple, retro theme for Hugo"
+      owner = ""
+      keywords = ""
+      copyright = ""
+      showFooter = false
+      footerHasText = false
+      menuMore = "Show more"
+      readMore = "Read more"
+      readOtherPosts = "Read other posts"
+      newerPosts = "Newer posts"
+      olderPosts = "Older posts"
+      missingContentMessage = "Page not found..."
+      missingBackButtonLabel = "Back to home page"
+      minuteReadingTime = "min read"
+      words = "words"
+
+      [languages.en.params.logo]
+        logoText = "Deep Roy"
+        logoHomeLink = "/"
+
+      # [languages.en.menu]
+      #   [[languages.en.menu.main]]
+      #     identifier = "about"
+      #     name = "About"
+      #     url = "/about"
+      #   [[languages.en.menu.main]]
+      #     identifier = "showcase"
+      #     name = "Showcase"
+      #     url = "/showcase"
