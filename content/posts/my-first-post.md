@@ -1,18 +1,8 @@
-+++
-title = "Placeholder Post"
-date = "2025-02-23T12:39:28-05:00"
-dateFormat = "2006 Feb 2" # This value can be configured for per-post date formatting
-author = ""
-authorTwitter = "" #do not include @
-cover = ""
-tags = ["", ""]
-keywords = ["", ""]
-description = ""
-showFullContent = false
-readingTime = false
-hideComments = false
-draft = false
-+++
+---
+title: "Placeholder Post"
+date: "2025-02-23T12:39:28-05:00"
+dateFormat: "2 Jan 2006"
+---
 
 This is a placeholder post, will be deleted soon. The post below is written by Gemini. It only uses words with five letters or less.
 
